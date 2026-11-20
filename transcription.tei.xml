@@ -12,10 +12,10 @@
         </respStmt>
       </titleStmt>
       <editionStmt>
-        <edition>Transcription dataset v0.1.0</edition>
+        <edition>Transcription dataset v0.2.0</edition>
       </editionStmt>
       <publicationStmt>
-        <p>曲宸宇 (Chu, Chen-Yu). Dataset edition 0.1.0.</p>
+        <p>曲宸宇 (Chu, Chen-Yu). Dataset edition 0.2.0.</p>
       </publicationStmt>
       <sourceDesc>
         <msDesc>
@@ -203,9 +203,9 @@
             <ab type="column" n="12" xml:id="f04-l-c12">
               <seg type="diplomatic-text">也雖愚夫愚婦可學而行焉豈必俟神明之智哉故</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f04-l-c12">
+            <ab type="page-feature" subtype="seal">
               <label>左上黑橢圓登錄戳</label>
-              <seg type="diplomatic-text" rend="unknown">186028　大正7.3.31</seg>
+              <seg type="diplomatic-text" rend="black">186028　大正7.3.31</seg>
             </ab>
             <ab type="page-feature" subtype="seal" corresp="#f04-l-c12">
               <label>左上朱方藏印</label>
@@ -229,6 +229,12 @@
             <ab type="transcription-issue" n="left:9">
               <quote>撓</quote>
               <note type="editorial">楕圓戳淡線另有上圖樣、下緣小痕，不補讀；日期以登錄戳身分處理。末欄「俟」近「竢」待核。第九欄「轉撓」次字與05右二「撓變」及08右七「撓回」筆形近，暫作「撓」。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:12">
+              <quote>豈必□神明</quote>
+              <seg type="candidate">俟</seg>
+              <seg type="candidate">竢</seg>
+              <note type="editorial">墨痕右部近矣，左旁仍待辨。</note>
             </ab>
           </div>
         </div>
@@ -590,6 +596,10 @@
               <quote>反在</quote>
               <note type="editorial">右四欄首「穀」形略省。右九「潘」與「滓」為據固定圖局部放大辨讀的暫定。左七「心睛」可能是另一形近字，左八「反在」下一字見水旁、右部類「莫」或「堇」，待核。</note>
             </ab>
+            <ab type="transcription-issue" n="right:9">
+              <quote>而昧潘滓焦着</quote>
+              <note type="editorial">中段草形與墨淡併見，維持初讀。</note>
+            </ab>
           </div>
         </div>
         <pb n="9" facs="#f09" />
@@ -679,6 +689,12 @@
             <ab type="transcription-issue" n="left:6">
               <quote>泻</quote>
               <note type="editorial">右五「胷」局部見上匈下月，保留「陥」「胷」形；右七首「已」疑與前欄組「可以知已」。左五放大可見「皆不水為主也」，保留字面；左六「泻」見水旁右写形。藥方名及其引例，無配方或製用步驟。</note>
+            </ab>
+            <ab type="transcription-issue" n="right:5">
+              <quote>大陥胷湯</quote>
+              <seg type="candidate">胷</seg>
+              <seg type="candidate">胸</seg>
+              <note type="editorial">原形月在下，上部見匈輪廓，保留原寫。</note>
             </ab>
           </div>
         </div>
@@ -816,6 +832,14 @@
             </ab>
             <ab type="column" n="4" xml:id="f11-l-c04">
               <seg type="diplomatic-text">有根荀悅申鑒曰臍下二寸謂</seg>
+              <note type="source-note" n="2">
+                <seg type="note-line" n="1">
+                  <seg type="diplomatic-text">滑伯仁曰譬如二字</seg>
+                </seg>
+                <seg type="note-line" n="2">
+                  <seg type="diplomatic-text">當在人之有尺下</seg>
+                </seg>
+              </note>
             </ab>
             <ab type="column" n="5" xml:id="f11-l-c05">
               <seg type="diplomatic-text">之關々者所以關藏呼吸之氣以稟授四體也是可</seg>
@@ -840,14 +864,6 @@
             </ab>
             <ab type="column" n="12" xml:id="f11-l-c12">
               <seg type="diplomatic-text">則不待脈而物可知焉若見一証者必徵之脈此亦</seg>
-            </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f11-l-c12">
-              <label>左頁第4欄「有根」下夾註右行</label>
-              <seg type="diplomatic-text" rend="unknown">滑伯仁曰譬如二字</seg>
-            </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f11-l-c12">
-              <label>左頁第4欄「有根」下夾註左行</label>
-              <seg type="diplomatic-text" rend="unknown">當在人之有尺下</seg>
             </ab>
           </div>
           <div type="editorial-observations">
@@ -1110,6 +1126,12 @@
           </div>
           <div type="editorial-observations">
             <ab type="layout">左面：左頁第5欄是低起小題。右頁第4欄「諸」後和左頁第9欄「全」後、第12欄「是」後同形，原像為覆頂及框、底長橫，依同幅候讀「書」。左頁第9欄「既」後字左從水、右有方框，候「涵／溷」。左頁第11欄「璨」左王，右下呈米形。</ab>
+            <ab type="transcription-issue" n="left:12">
+              <quote>書</quote>
+              <seg type="candidate">書</seg>
+              <seg type="candidate">晝</seg>
+              <note type="editorial">兩橫疊處仍待辨。</note>
+            </ab>
           </div>
         </div>
         <pb n="15" facs="#f15" />
@@ -1325,7 +1347,7 @@
               <seg type="diplomatic-text">陽氣太甚状因名曰太陽々曰太陽曰少陽陽之義</seg>
             </ab>
             <ab type="column" n="12" xml:id="f17-r-c12">
-              <seg type="diplomatic-text">存焉故太陽与少陽自為脉伏大體</seg>
+              <seg type="diplomatic-text">存焉故太陽与少陰自為脉伏大體</seg>
             </ab>
           </div>
           <div type="page-face" n="left">
@@ -1368,6 +1390,12 @@
           </div>
           <div type="editorial-observations">
             <ab type="layout">左面：右第2欄「沾」、第8欄「窘窒」、第10欄「帶」、第12欄「脉伏」僅候讀；第11欄原有一重文符，暫以「々」表示。左第9欄「鞕」右部清楚，保留原形。〈太陽病〉、〈少陽病〉、〈陽明病〉、〈少陰病〉均另欄低寫。</ab>
+            <ab type="transcription-issue" n="right:12">
+              <quote>自為脉伏</quote>
+              <seg type="candidate">伏</seg>
+              <seg type="candidate">状</seg>
+              <note type="editorial">左部有長豎和折鉤，仍未定形。</note>
+            </ab>
           </div>
         </div>
         <pb n="18" facs="#f18" />
@@ -1421,7 +1449,7 @@
               <seg type="diplomatic-text">厥者頓也發石也謂其病暴迫也血氣暴迫上攻内</seg>
             </ab>
             <ab type="column" n="4" xml:id="f18-l-c04">
-              <seg type="diplomatic-text">位者謂之厥脉消渴氣上撞心々中疼熱飢而不能</seg>
+              <seg type="diplomatic-text">位者謂之厥状消渴氣上撞心々中疼熱飢而不能</seg>
             </ab>
             <ab type="column" n="5" xml:id="f18-l-c05">
               <seg type="diplomatic-text">食此其候也陽明与厥陰均是暴急者也發起上行</seg>
@@ -1462,7 +1490,7 @@
               <seg type="diplomatic-text">經為經歷之經則似穩當也然而至傷寒十三日不</seg>
             </ab>
             <ab type="column" n="3" xml:id="f19-r-c03">
-              <seg type="diplomatic-text">解過經譫語之章乃窒礙矣如再經說固經絡家之</seg>
+              <seg type="diplomatic-text">解過經譫語之章乃窘碍矣如再經說固經絡家之</seg>
             </ab>
             <ab type="column" n="4" xml:id="f19-r-c04">
               <seg type="diplomatic-text">妄焉耳</seg>

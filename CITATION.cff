@@ -3,7 +3,7 @@ message: If you use this dataset, please cite this version and the source copy.
 title: '斷醫譚（京都大學富士川文庫 タ/91） / Dan’itan [Discussions on Medical Judgment]: Transcription
   Dataset'
 type: dataset
-version: 0.1.0
+version: 0.2.0
 authors:
 - family-names: Chu
   given-names: Chen-Yu

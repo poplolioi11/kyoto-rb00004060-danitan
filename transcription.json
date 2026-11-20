@@ -17,11 +17,11 @@
     "manifest_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00004060/manifest.json",
     "manifest_sha256": "2e96a4c39d5a05dc976f923fdf2407af404fa0e41171ac7d8243cf0a8acbc2e5",
     "record_id": "RB00004060",
-    "edition": "0.1.0",
+    "edition": "0.2.0",
     "catalogue_main_scope": "Single undated kanbun manuscript, with an accession stamp dated 1918-03-31. All 21 official canvases retained in sequence, including covers and flyleaves. Main text spans 04L–19L.",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "dataset_title": "斷醫譚（京都大學富士川文庫 タ/91） / Dan’itan [Discussions on Medical Judgment]: Transcription Dataset",
-    "review_status": "initial-transcription",
+    "review_status": "targeted-image-adjudication",
     "editor": {
       "name": "Chu, Chen-Yu",
       "orcid": "0009-0003-9738-6914"
@@ -168,7 +168,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "medical-judgment-treatise",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -217,11 +217,11 @@
           ],
           "extras": [
             {
-              "type": "printed-small-text",
+              "type": "seal",
               "location": "左上黑橢圓登錄戳",
               "text": "186028　大正7.3.31",
-              "column_anchor": 12,
-              "color": "unknown"
+              "column_anchor": null,
+              "color": "black"
             },
             {
               "type": "seal",
@@ -261,6 +261,16 @@
           "context": "撓",
           "candidates": [],
           "note": "楕圓戳淡線另有上圖樣、下緣小痕，不補讀；日期以登錄戳身分處理。末欄「俟」近「竢」待核。第九欄「轉撓」次字與05右二「撓變」及08右七「撓回」筆形近，暫作「撓」。"
+        },
+        {
+          "side": "left",
+          "column": 12,
+          "context": "豈必□神明",
+          "candidates": [
+            "俟",
+            "竢"
+          ],
+          "note": "墨痕右部近矣，左旁仍待辨。"
         }
       ],
       "observations": "右面：見返空白，僅水漬，無正文。 左面：楕圓戳淡線另有上圖樣、下緣小痕，不補讀；日期以登錄戳身分處理。末欄「俟」近「竢」待核。第九欄「轉撓」次字與05右二「撓變」及08右七「撓回」筆形近，暫作「撓」。"
@@ -282,7 +292,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "medical-judgment-treatise",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -404,7 +414,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "medical-judgment-treatise",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -533,7 +543,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "medical-judgment-treatise",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -640,7 +650,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "medical-judgment-treatise",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -748,6 +758,13 @@
           "context": "反在",
           "candidates": [],
           "note": "右四欄首「穀」形略省。右九「潘」與「滓」為據固定圖局部放大辨讀的暫定。左七「心睛」可能是另一形近字，左八「反在」下一字見水旁、右部類「莫」或「堇」，待核。"
+        },
+        {
+          "side": "right",
+          "column": 9,
+          "context": "而昧潘滓焦着",
+          "candidates": [],
+          "note": "中段草形與墨淡併見，維持初讀。"
         }
       ],
       "observations": "左面：右四欄首「穀」形略省。右九「潘」與「滓」為據固定圖局部放大辨讀的暫定。左七「心睛」可能是另一形近字，左八「反在」下一字見水旁、右部類「莫」或「堇」，待核。"
@@ -769,7 +786,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "medical-judgment-treatise",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -870,6 +887,16 @@
           "context": "泻",
           "candidates": [],
           "note": "右五「胷」局部見上匈下月，保留「陥」「胷」形；右七首「已」疑與前欄組「可以知已」。左五放大可見「皆不水為主也」，保留字面；左六「泻」見水旁右写形。藥方名及其引例，無配方或製用步驟。"
+        },
+        {
+          "side": "right",
+          "column": 5,
+          "context": "大陥胷湯",
+          "candidates": [
+            "胷",
+            "胸"
+          ],
+          "note": "原形月在下，上部見匈輪廓，保留原寫。"
         }
       ],
       "observations": "左面：右五「胷」局部見上匈下月，保留「陥」「胷」形；右七首「已」疑與前欄組「可以知已」。左五放大可見「皆不水為主也」，保留字面；左六「泻」見水旁右写形。藥方名及其引例，無配方或製用步驟。"
@@ -891,7 +918,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "medical-judgment-treatise",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -998,7 +1025,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "medical-judgment-treatise",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -1055,7 +1082,17 @@
               "text": "非以手高骨脈分之者難經曰譬如人之有尺樹之"
             },
             {
-              "text": "有根荀悅申鑒曰臍下二寸謂"
+              "text": "有根荀悅申鑒曰臍下二寸謂",
+              "notes": [
+                {
+                  "after": 2,
+                  "lines": [
+                    "滑伯仁曰譬如二字",
+                    "當在人之有尺下"
+                  ],
+                  "marks": []
+                }
+              ]
             },
             {
               "text": "之關々者所以關藏呼吸之氣以稟授四體也是可"
@@ -1082,22 +1119,7 @@
               "text": "則不待脈而物可知焉若見一証者必徵之脈此亦"
             }
           ],
-          "extras": [
-            {
-              "type": "printed-small-text",
-              "location": "左頁第4欄「有根」下夾註右行",
-              "text": "滑伯仁曰譬如二字",
-              "column_anchor": 12,
-              "color": "unknown"
-            },
-            {
-              "type": "printed-small-text",
-              "location": "左頁第4欄「有根」下夾註左行",
-              "text": "當在人之有尺下",
-              "column_anchor": 12,
-              "color": "unknown"
-            }
-          ]
+          "extras": []
         }
       ],
       "issues": [
@@ -1142,7 +1164,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "medical-judgment-treatise",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -1249,7 +1271,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "medical-judgment-treatise",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -1356,7 +1378,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "medical-judgment-treatise",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -1443,7 +1465,18 @@
           "extras": []
         }
       ],
-      "issues": [],
+      "issues": [
+        {
+          "side": "left",
+          "column": 12,
+          "context": "書",
+          "candidates": [
+            "書",
+            "晝"
+          ],
+          "note": "兩橫疊處仍待辨。"
+        }
+      ],
       "observations": "左面：左頁第5欄是低起小題。右頁第4欄「諸」後和左頁第9欄「全」後、第12欄「是」後同形，原像為覆頂及框、底長橫，依同幅候讀「書」。左頁第9欄「既」後字左從水、右有方框，候「涵／溷」。左頁第11欄「璨」左王，右下呈米形。"
     },
     {
@@ -1463,7 +1496,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "medical-judgment-treatise",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -1570,7 +1603,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "medical-judgment-treatise",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -1699,7 +1732,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "medical-judgment-treatise",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -1738,7 +1771,7 @@
               "text": "陽氣太甚状因名曰太陽々曰太陽曰少陽陽之義"
             },
             {
-              "text": "存焉故太陽与少陽自為脉伏大體"
+              "text": "存焉故太陽与少陰自為脉伏大體"
             }
           ],
           "extras": []
@@ -1786,7 +1819,18 @@
           "extras": []
         }
       ],
-      "issues": [],
+      "issues": [
+        {
+          "side": "right",
+          "column": 12,
+          "context": "自為脉伏",
+          "candidates": [
+            "伏",
+            "状"
+          ],
+          "note": "左部有長豎和折鉤，仍未定形。"
+        }
+      ],
       "observations": "左面：右第2欄「沾」、第8欄「窘窒」、第10欄「帶」、第12欄「脉伏」僅候讀；第11欄原有一重文符，暫以「々」表示。左第9欄「鞕」右部清楚，保留原形。〈太陽病〉、〈少陽病〉、〈陽明病〉、〈少陰病〉均另欄低寫。"
     },
     {
@@ -1806,7 +1850,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "medical-judgment-treatise",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -1863,7 +1907,7 @@
               "text": "厥者頓也發石也謂其病暴迫也血氣暴迫上攻内"
             },
             {
-              "text": "位者謂之厥脉消渴氣上撞心々中疼熱飢而不能"
+              "text": "位者謂之厥状消渴氣上撞心々中疼熱飢而不能"
             },
             {
               "text": "食此其候也陽明与厥陰均是暴急者也發起上行"
@@ -1913,7 +1957,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "medical-judgment-treatise",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -1925,7 +1969,7 @@
               "text": "經為經歷之經則似穩當也然而至傷寒十三日不"
             },
             {
-              "text": "解過經譫語之章乃窒礙矣如再經說固經絡家之"
+              "text": "解過經譫語之章乃窘碍矣如再經說固經絡家之"
             },
             {
               "text": "妄焉耳"

@@ -4,11 +4,11 @@
 
 Dan’itan is an anonymous Literary Chinese manuscript on clinical judgment in the Kyoto University Fujikawa Collection. Opening with a discussion of methods, it considers the classification, relative severity, and progression of illness, with references to Yoshimasu Tōdō. A 1918 stamp records the copy's accession; composition and copying dates are unknown.
 
-## V0.1.0
+## V0.2.0
 
-全冊21幅索引，正文第4幅左至第19幅左，31個有正文的書面。附題籤、館藏戳、可辨朱墨、小字與疑讀位置。AI 輔助逐欄初錄，疑讀另記。
+全冊21幅索引，正文第4幅左至第19幅左，31個有正文的書面。附題籤、館藏戳、可辨朱墨、小字與疑讀位置。比對未見初稿的本機 OCR 候選後，回圖裁定採用 5 筆訂正。未定讀法及部分小字、訓點留待覆核。
 
-All 21 scans are indexed, including 31 written faces from scan 4 left to scan 19 left. Labels, collection stamps, selected marks and uncertain readings are distinguishable. AI-assisted initial transcription with uncertain readings marked.
+All 21 scans are indexed, including 31 written faces from scan 4 left to scan 19 left. Labels, collection stamps, selected marks and uncertain readings are distinguishable. Independent local OCR candidates were compared with the initial transcription. Targeted source-image review adopted 5 corrections. Some readings, small notes, and reading marks still need review.
 
 ## 資料與原件 / Data and source
 
