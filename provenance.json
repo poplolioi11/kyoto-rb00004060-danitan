@@ -1,0 +1,244 @@
+{
+  "historical_author": "未署名",
+  "source_identity": "京都大學附屬圖書館富士川文庫 タ/91，RB00004060",
+  "source": "https://rmda.kulib.kyoto-u.ac.jp/item/rb00004060",
+  "iiif_manifest": "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00004060/manifest.json",
+  "source_rights_policy": "https://rmda.kulib.kyoto-u.ac.jp/reuse",
+  "dataset_version": "0.1.0",
+  "scan_count": 21,
+  "content_scan_count": 16,
+  "review_status": "initial-transcription",
+  "source_image_inventory": [
+    {
+      "image": 1,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00004060/canvas/p1",
+      "label": {
+        "ja": [
+          "1"
+        ]
+      },
+      "sha256": "314cc2b44cc62f37f3d09d952ca53c4e26b4ab9a2eddea404826b490ab951b26",
+      "content_role": "housing-or-binding"
+    },
+    {
+      "image": 2,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00004060/canvas/p2",
+      "label": {
+        "ja": [
+          "2"
+        ]
+      },
+      "sha256": "469e1cea93eeb639b4e2ee780e318dba3d8858ad209b185ea9dd504ccf86028e",
+      "content_role": "housing-or-binding"
+    },
+    {
+      "image": 3,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00004060/canvas/p3",
+      "label": {
+        "ja": [
+          "3"
+        ]
+      },
+      "sha256": "359faf8102691860d1031a1db675dc992d450dad7f7f67a4b7c67df5919319cd",
+      "content_role": "housing-or-binding"
+    },
+    {
+      "image": 4,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00004060/canvas/p4",
+      "label": {
+        "ja": [
+          "4"
+        ]
+      },
+      "sha256": "04f23face88ccd3914883d16df3c8bcc81de15ed99ec62ff13d63446d2bb836a",
+      "content_role": "medical-judgment-treatise"
+    },
+    {
+      "image": 5,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00004060/canvas/p5",
+      "label": {
+        "ja": [
+          "5"
+        ]
+      },
+      "sha256": "40346f50c6ba2f2ea3aab42c1e698319392cf6e4791f9739da58a3e06723ec8a",
+      "content_role": "medical-judgment-treatise"
+    },
+    {
+      "image": 6,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00004060/canvas/p6",
+      "label": {
+        "ja": [
+          "6"
+        ]
+      },
+      "sha256": "9647769c962b77d03d5e0a5f118d7d355c45dd2e9461216821556171d930de36",
+      "content_role": "medical-judgment-treatise"
+    },
+    {
+      "image": 7,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00004060/canvas/p7",
+      "label": {
+        "ja": [
+          "7"
+        ]
+      },
+      "sha256": "43eb84c6f165397ecd9dbe2748d3fb346f1ff35d1a5e8691368c5cd8c05170f4",
+      "content_role": "medical-judgment-treatise"
+    },
+    {
+      "image": 8,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00004060/canvas/p8",
+      "label": {
+        "ja": [
+          "8"
+        ]
+      },
+      "sha256": "8d39b555009d97758ce0df08a1243b4f6776b4c8c3748eab95643f1f6af45218",
+      "content_role": "medical-judgment-treatise"
+    },
+    {
+      "image": 9,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00004060/canvas/p9",
+      "label": {
+        "ja": [
+          "9"
+        ]
+      },
+      "sha256": "21c5da8c2c7beff0cf2a4afe07df3b8df605fffca7c4ea327ce4a48b7de1cfbb",
+      "content_role": "medical-judgment-treatise"
+    },
+    {
+      "image": 10,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00004060/canvas/p10",
+      "label": {
+        "ja": [
+          "10"
+        ]
+      },
+      "sha256": "36093929e49a7405b18427a6277d5e08368fcd88282aa493a7504c88b9f7b4ba",
+      "content_role": "medical-judgment-treatise"
+    },
+    {
+      "image": 11,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00004060/canvas/p11",
+      "label": {
+        "ja": [
+          "11"
+        ]
+      },
+      "sha256": "956b5a97432406d680f94a26dd006f785f55085d62c6367be462d832022a40ee",
+      "content_role": "medical-judgment-treatise"
+    },
+    {
+      "image": 12,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00004060/canvas/p12",
+      "label": {
+        "ja": [
+          "12"
+        ]
+      },
+      "sha256": "7f469807782c45b463ef5048f9cedf994346f0669979d3ce03651251ef5cb03e",
+      "content_role": "medical-judgment-treatise"
+    },
+    {
+      "image": 13,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00004060/canvas/p13",
+      "label": {
+        "ja": [
+          "13"
+        ]
+      },
+      "sha256": "4960166c2e471b540b58c9855c8cb1de55a5d26770e658d2dda013fefc8bbfbe",
+      "content_role": "medical-judgment-treatise"
+    },
+    {
+      "image": 14,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00004060/canvas/p14",
+      "label": {
+        "ja": [
+          "14"
+        ]
+      },
+      "sha256": "0869c6b5ade384de97de30442e3dfb25550b4e431d6d889552a62cedef4133de",
+      "content_role": "medical-judgment-treatise"
+    },
+    {
+      "image": 15,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00004060/canvas/p15",
+      "label": {
+        "ja": [
+          "15"
+        ]
+      },
+      "sha256": "f0846b6be65b36929561c709c1aa3030989ed52018847f38c3226967083eeac0",
+      "content_role": "medical-judgment-treatise"
+    },
+    {
+      "image": 16,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00004060/canvas/p16",
+      "label": {
+        "ja": [
+          "16"
+        ]
+      },
+      "sha256": "fe585f491ac2c1a6e52c36fcdf2467952858ce47e8d5568e2148188dbcde53dc",
+      "content_role": "medical-judgment-treatise"
+    },
+    {
+      "image": 17,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00004060/canvas/p17",
+      "label": {
+        "ja": [
+          "17"
+        ]
+      },
+      "sha256": "5cfea820ef6f440a972e2db12a0717eaac23be572fa09ba181deba94454fbd7c",
+      "content_role": "medical-judgment-treatise"
+    },
+    {
+      "image": 18,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00004060/canvas/p18",
+      "label": {
+        "ja": [
+          "18"
+        ]
+      },
+      "sha256": "fe9539d549c74fe8d42401dd569b2342e29f64c88ca017c1f97994c5aae52fee",
+      "content_role": "medical-judgment-treatise"
+    },
+    {
+      "image": 19,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00004060/canvas/p19",
+      "label": {
+        "ja": [
+          "19"
+        ]
+      },
+      "sha256": "2ad0f98f06eccd841cd77354a98dee27f4152b9aa91433cc2fade1b55882d8f0",
+      "content_role": "medical-judgment-treatise"
+    },
+    {
+      "image": 20,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00004060/canvas/p20",
+      "label": {
+        "ja": [
+          "20"
+        ]
+      },
+      "sha256": "2c61fdd2a761493d73241f793bdce50d2a1792065ebef9d688640ab78cde64e3",
+      "content_role": "housing-or-binding"
+    },
+    {
+      "image": 21,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00004060/canvas/p21",
+      "label": {
+        "ja": [
+          "21"
+        ]
+      },
+      "sha256": "b594d0cd7d390670e21474e175e0bdbf6b3f940287310f188c45a86275bfde33",
+      "content_role": "housing-or-binding"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "images_in_scope": 16,
+  "images_in_source_inventory": 21,
+  "image_states": {
+    "initial-read": 21
+  },
+  "tei_p5_schema": "passed",
+  "cff_1_2_0_schema": "passed",
+  "frozen_body_comparison": "passed",
+  "format_sha256": {
+    "transcription.json": "210983dc8d425b0a6e8a7079614bce48f89275ba579b89c9326c9c10ffc1e2f8",
+    "transcription.txt": "c86a443dbf3dc8c0614bc818d73e77902116f41ee4359c838fe223ca526008d3",
+    "transcription.tei.xml": "85283ce62cea7a83595aaad158d63fe485d9aa6ffe939d6376bd2012f7378ca1"
+  }
+}

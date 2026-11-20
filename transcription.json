@@ -1,0 +1,2059 @@
+{
+  "metadata": {
+    "title": "斷醫譚",
+    "catalogue_title": "断医譚",
+    "alternate_title": "Dan'itan",
+    "roman_title": "Dan'itan",
+    "author": "未詳",
+    "date": "寫作與謄寫年代未詳；卷首入藏印為大正七年三月三十一日（1918）。",
+    "location": "日本京都（現藏）",
+    "repository": "京都大學附屬圖書館",
+    "repository_en": "Main Library, Kyoto University",
+    "collection": "富士川文庫",
+    "shelfmark": "タ/91（186028）",
+    "catalogue": "https://rmda.kulib.kyoto-u.ac.jp/item/rb00004060",
+    "rights": "https://rmda.kulib.kyoto-u.ac.jp/reuse",
+    "description": "漢文醫論一冊，由〈方法〉開端，討論病症、診察與分類概念，以〈壞病〉收卷。",
+    "manifest_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00004060/manifest.json",
+    "manifest_sha256": "2e96a4c39d5a05dc976f923fdf2407af404fa0e41171ac7d8243cf0a8acbc2e5",
+    "record_id": "RB00004060",
+    "edition": "0.1.0",
+    "catalogue_main_scope": "Single undated kanbun manuscript, with an accession stamp dated 1918-03-31. All 21 official canvases retained in sequence, including covers and flyleaves. Main text spans 04L–19L.",
+    "version": "0.1.0",
+    "dataset_title": "斷醫譚（京都大學富士川文庫 タ/91） / Dan’itan [Discussions on Medical Judgment]: Transcription Dataset",
+    "review_status": "initial-transcription",
+    "editor": {
+      "name": "Chu, Chen-Yu",
+      "orcid": "0009-0003-9738-6914"
+    }
+  },
+  "pages": [
+    {
+      "image": 1,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00004060/canvas/p1",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00004060%2FRB00004060_00001_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "1"
+        ]
+      },
+      "file": "01.jpg",
+      "sha256": "314cc2b44cc62f37f3d09d952ca53c4e26b4ab9a2eddea404826b490ab951b26",
+      "bytes": 262881,
+      "width": 2000,
+      "height": 1333,
+      "native_width": 5616,
+      "native_height": 3744,
+      "content_role": "housing-or-binding",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": [
+            {
+              "type": "copy-annotation",
+              "location": "書套紙籤",
+              "text": "斷醫譚",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "單幅：藍色書套合拍；卷文未見。"
+    },
+    {
+      "image": 2,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00004060/canvas/p2",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00004060%2FRB00004060_00002_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "2"
+        ]
+      },
+      "file": "02.jpg",
+      "sha256": "469e1cea93eeb639b4e2ee780e318dba3d8858ad209b185ea9dd504ccf86028e",
+      "bytes": 371185,
+      "width": 2000,
+      "height": 1333,
+      "native_width": 5616,
+      "native_height": 3744,
+      "content_role": "housing-or-binding",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": [
+            {
+              "type": "copy-annotation",
+              "location": "書套左側紙籤",
+              "text": "斷醫譚",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "single",
+          "column": null,
+          "context": "",
+          "candidates": [],
+          "note": "書套展開，同一籤重拍。折側小籤細字暫未定。"
+        }
+      ],
+      "observations": "單幅：書套展開，同一籤重拍。折側小籤細字暫未定。"
+    },
+    {
+      "image": 3,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00004060/canvas/p3",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00004060%2FRB00004060_00003_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "3"
+        ]
+      },
+      "file": "03.jpg",
+      "sha256": "359faf8102691860d1031a1db675dc992d450dad7f7f67a4b7c67df5919319cd",
+      "bytes": 239178,
+      "width": 2000,
+      "height": 1333,
+      "native_width": 5616,
+      "native_height": 3744,
+      "content_role": "housing-or-binding",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": [
+            {
+              "type": "copy-annotation",
+              "location": "黑色原封面題籤",
+              "text": "斷醫譚　全",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "copy-annotation",
+              "location": "右上館籤",
+              "text": "富士川本 タ 91",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "單幅：原書封面與外套分開，卷文從下一幅左面開始。館籤上欄較小。"
+    },
+    {
+      "image": 4,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00004060/canvas/p4",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00004060%2FRB00004060_00004_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "4"
+        ]
+      },
+      "file": "04.jpg",
+      "sha256": "04f23face88ccd3914883d16df3c8bcc81de15ed99ec62ff13d63446d2bb836a",
+      "bytes": 299305,
+      "width": 2000,
+      "height": 1333,
+      "native_width": 5616,
+      "native_height": 3744,
+      "content_role": "medical-judgment-treatise",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [],
+          "extras": []
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "方法"
+            },
+            {
+              "text": "薬曰方治曰法々定而後方定矣方法之義不可不"
+            },
+            {
+              "text": "知焉方也者方隅之方不可變易者也麻黃湯治表"
+            },
+            {
+              "text": "水而不能治裏水柴胡湯治裏水而不能治表水薬"
+            },
+            {
+              "text": "定於一方不可變易故薬以方而言也法也者法則"
+            },
+            {
+              "text": "之法孔子曰制而行之謂之法々必得其人而後成"
+            },
+            {
+              "text": "焉法在醫而不在病也所以推証知物辨順逆明虛"
+            },
+            {
+              "text": "實定所在分主客者是之謂法也施治之規矩也法"
+            },
+            {
+              "text": "立而後轉撓可見焉薬方可處焉不知法者不能射"
+            },
+            {
+              "text": "病之條理故治以法而言也法成而事從焉出於一"
+            },
+            {
+              "text": "而暢於萬統之者謂之道々者人人之所由是而之"
+            },
+            {
+              "text": "也雖愚夫愚婦可學而行焉豈必俟神明之智哉故"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "左上黑橢圓登錄戳",
+              "text": "186028　大正7.3.31",
+              "column_anchor": 12,
+              "color": "unknown"
+            },
+            {
+              "type": "seal",
+              "location": "左上朱方藏印",
+              "text": "京都帝國大學圖書之印",
+              "column_anchor": 12,
+              "color": "unknown"
+            },
+            {
+              "type": "seal",
+              "location": "左欄外下方朱印",
+              "text": "富士川游寄贈",
+              "column_anchor": 12,
+              "color": "red"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "left",
+          "column": 12,
+          "context": "俟",
+          "candidates": [],
+          "note": "楕圓戳淡線另有上圖樣、下緣小痕，不補讀；日期以登錄戳身分處理。末欄「俟」近「竢」待核。第九欄「轉撓」次字與05右二「撓變」及08右七「撓回」筆形近，暫作「撓」。"
+        },
+        {
+          "side": "left",
+          "column": 9,
+          "context": "轉撓",
+          "candidates": [],
+          "note": "楕圓戳淡線另有上圖樣、下緣小痕，不補讀；日期以登錄戳身分處理。末欄「俟」近「竢」待核。第九欄「轉撓」次字與05右二「撓變」及08右七「撓回」筆形近，暫作「撓」。"
+        },
+        {
+          "side": "left",
+          "column": 9,
+          "context": "撓",
+          "candidates": [],
+          "note": "楕圓戳淡線另有上圖樣、下緣小痕，不補讀；日期以登錄戳身分處理。末欄「俟」近「竢」待核。第九欄「轉撓」次字與05右二「撓變」及08右七「撓回」筆形近，暫作「撓」。"
+        }
+      ],
+      "observations": "右面：見返空白，僅水漬，無正文。 左面：楕圓戳淡線另有上圖樣、下緣小痕，不補讀；日期以登錄戳身分處理。末欄「俟」近「竢」待核。第九欄「轉撓」次字與05右二「撓變」及08右七「撓回」筆形近，暫作「撓」。"
+    },
+    {
+      "image": 5,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00004060/canvas/p5",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00004060%2FRB00004060_00005_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "5"
+        ]
+      },
+      "file": "05.jpg",
+      "sha256": "40346f50c6ba2f2ea3aab42c1e698319392cf6e4791f9739da58a3e06723ec8a",
+      "bytes": 334191,
+      "width": 2000,
+      "height": 1333,
+      "native_width": 5616,
+      "native_height": 3744,
+      "content_role": "medical-judgment-treatise",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "法立而後可授可受矣持有限之方而臨無涯之病"
+            },
+            {
+              "text": "然猶綽々有餘裕者撓變百出馳駈於法中也是之"
+            },
+            {
+              "text": "謂能用法也道之大成也"
+            },
+            {
+              "text": "證"
+            },
+            {
+              "text": "証者証驗也我以此為証據也在病者則謂之應也"
+            },
+            {
+              "text": "在治病者則謂之証也扁鵲傳曰病應見於大表傷"
+            },
+            {
+              "text": "寒論曰隨証治之是也以此徵之而知其物故此謂"
+            },
+            {
+              "text": "証推顯以知隱也徒固執其見証以施治則非我所"
+            },
+            {
+              "text": "謂法也"
+            },
+            {
+              "text": "物"
+            },
+            {
+              "text": "物者何也氣血水是也體中之物有斯三而已其狀"
+            },
+            {
+              "text": "可知焉其形可見焉汗也小便也衂也下血也是皆"
+            }
+          ],
+          "extras": []
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "目之所能睹也氣也者精氣也非元氣也非神氣也"
+            },
+            {
+              "text": "精氣卽穀氣故此亦為物易曰精氣為物遊魂為變"
+            },
+            {
+              "text": "是也凡入口者不出乎飲食之二化為三物常則循"
+            },
+            {
+              "text": "行為養變則停滯為病其俾病者謂之毒也毒不見"
+            },
+            {
+              "text": "於証乗物而後見於証故不可不知物焉病無定証"
+            },
+            {
+              "text": "証有定儀知物以証論証以物々之与証相依不離"
+            },
+            {
+              "text": "猶影之於形也形方則影亦方形圓則影亦圓依影"
+            },
+            {
+              "text": "以推形得形以論影形之方円未必一其物焉同其"
+            },
+            {
+              "text": "影而異其形者有之猶氷炭同形而冷煖逈異也然"
+            },
+            {
+              "text": "方形終不見圓影圓形終不見方影所以不得不依"
+            },
+            {
+              "text": "影推形也形一定而後條理可得而判焉雖影与形"
+            },
+            {
+              "text": "相依不離然有形而後有影々必不先於形也故醫"
+            }
+          ],
+          "extras": []
+        }
+      ],
+      "issues": [
+        {
+          "side": "left",
+          "column": null,
+          "context": "証",
+          "candidates": [],
+          "note": "右題「證」與下文「証」為不同筆形；右二「撓變」首字待核，與04左九、08右七筆形近。「馳駈」末字見馬旁及丘形。左四「俾」待核。反印不錄。"
+        },
+        {
+          "side": "left",
+          "column": 4,
+          "context": "俾",
+          "candidates": [],
+          "note": "右題「證」與下文「証」為不同筆形；右二「撓變」首字待核，與04左九、08右七筆形近。「馳駈」末字見馬旁及丘形。左四「俾」待核。反印不錄。"
+        }
+      ],
+      "observations": "左面：右題「證」與下文「証」為不同筆形；右二「撓變」首字待核，與04左九、08右七筆形近。「馳駈」末字見馬旁及丘形。左四「俾」待核。反印不錄。"
+    },
+    {
+      "image": 6,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00004060/canvas/p6",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00004060%2FRB00004060_00006_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "6"
+        ]
+      },
+      "file": "06.jpg",
+      "sha256": "9647769c962b77d03d5e0a5f118d7d355c45dd2e9461216821556171d930de36",
+      "bytes": 333347,
+      "width": 2000,
+      "height": 1333,
+      "native_width": 5616,
+      "native_height": 3744,
+      "content_role": "medical-judgment-treatise",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "範曰証縁物而生物随証而分証者末也物者本也"
+            },
+            {
+              "text": "故不知物則不能推定義何以能論其証乎不論証"
+            },
+            {
+              "text": "而處方我謂之暗投瞑行也所以分氣血水之法既"
+            },
+            {
+              "text": "詳見于醫範今之所言唯其緒論而已"
+            },
+            {
+              "text": "一毒"
+            },
+            {
+              "text": "萬病唯一毒之説本之呂氏春秋精鬱之論有所為"
+            },
+            {
+              "text": "焉而言之示治之非可補益也夫既示之治術宜攻"
+            },
+            {
+              "text": "之人参當歸之於血附子乾薑之於氣亦唯以此毒"
+            },
+            {
+              "text": "攻彼毒而已氣血水有急逆凝滯毒乗之也豈敢以"
+            },
+            {
+              "text": "此薬行彼物乎一者對萬之稱諸病皆唯毒之謂而"
+            },
+            {
+              "text": "示其所帰一也非各病有各毒也病必害性故謂之"
+            },
+            {
+              "text": "毒々者無形也物者有形也毒必乗有形既乗有形"
+            }
+          ],
+          "extras": []
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "然後其証見矣所乗者一而所變者物三也故曰一"
+            },
+            {
+              "text": "毒曰三物俾病者毒而所病者卽氣血水也唯知其"
+            },
+            {
+              "text": "為毒不知所以毒之矣唯知攻其毒不問毒去之狀"
+            },
+            {
+              "text": "矣蓋萬病一毒有所為焉而言之非事也非法也然"
+            },
+            {
+              "text": "事与法必縁此而出焉一毒猶易有太極太極非事"
+            },
+            {
+              "text": "也非法也然陰陽之義事物之理咸莫不縁此而出"
+            },
+            {
+              "text": "焉太極生兩儀既有陰陽陰陽之外非更有太極也"
+            },
+            {
+              "text": "太極従物而分故一生二二生三然後妙用可言矣"
+            },
+            {
+              "text": "有氣血有水一毒必乗之故言三物者三極之道也"
+            },
+            {
+              "text": "毒藥"
+            },
+            {
+              "text": "毒薬之辨既見醫斷無復異論焉然別之則毒者無"
+            },
+            {
+              "text": "形也薬者有形也偏性之氣之謂毒偏性之物之謂"
+            }
+          ],
+          "extras": []
+        }
+      ],
+      "issues": [
+        {
+          "side": "left",
+          "column": 2,
+          "context": "俾",
+          "candidates": [],
+          "note": "右六「精鬱」後字待核。左二「俾」待核。左「毒藥」篇題首筆較完整，欄內「薬」照墨形記。概念辨義與藥名，無配比或製用步驟。"
+        },
+        {
+          "side": "left",
+          "column": 10,
+          "context": "毒藥",
+          "candidates": [],
+          "note": "右六「精鬱」後字待核。左二「俾」待核。左「毒藥」篇題首筆較完整，欄內「薬」照墨形記。概念辨義與藥名，無配比或製用步驟。"
+        },
+        {
+          "side": "left",
+          "column": null,
+          "context": "薬",
+          "candidates": [],
+          "note": "右六「精鬱」後字待核。左二「俾」待核。左「毒藥」篇題首筆較完整，欄內「薬」照墨形記。概念辨義與藥名，無配比或製用步驟。"
+        }
+      ],
+      "observations": "左面：右六「精鬱」後字待核。左二「俾」待核。左「毒藥」篇題首筆較完整，欄內「薬」照墨形記。概念辨義與藥名，無配比或製用步驟。"
+    },
+    {
+      "image": 7,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00004060/canvas/p7",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00004060%2FRB00004060_00007_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "7"
+        ]
+      },
+      "file": "07.jpg",
+      "sha256": "43eb84c6f165397ecd9dbe2748d3fb346f1ff35d1a5e8691368c5cd8c05170f4",
+      "bytes": 322331,
+      "width": 2000,
+      "height": 1333,
+      "native_width": 5616,
+      "native_height": 3744,
+      "content_role": "medical-judgment-treatise",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "薬鄭玄曰薬之物恒多毒是也司馬貞三皇本紀始"
+            },
+            {
+              "text": "甞百草始有醫薬急就篇註草木金石鳥獸蟲魚之"
+            },
+            {
+              "text": "類堪愈疾者總名為薬々者語其形也毒者語其氣"
+            },
+            {
+              "text": "也博雅曰惡也害也病者害人身故謂之毒薬者存"
+            },
+            {
+              "text": "偏性故亦謂之毒皆以無形言之也説文以薬為治"
+            },
+            {
+              "text": "病草以毒為害人草非古也不可従焉"
+            },
+            {
+              "text": "急逆"
+            },
+            {
+              "text": "急逆者病之態也急逆虛実謂之四態病必有斯四"
+            },
+            {
+              "text": "態不知四態則不能論証故設之以立其法矣循行"
+            },
+            {
+              "text": "者常也急逆者變也失常而疾行之謂急失常而却"
+            },
+            {
+              "text": "行之謂逆醫範曰急者順行而進之謂也逆者却行"
+            },
+            {
+              "text": "而退之謂也蓋三物皆有急逆然必以氣為主水血"
+            }
+          ],
+          "extras": []
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "之急逆亦不得不由氣氣者以腹為本而所在者以"
+            },
+            {
+              "text": "心為極位故以此立其本自上而逆自下而急急極"
+            },
+            {
+              "text": "則逆逆極則急物理之常也如水滯者不汗出血滯"
+            },
+            {
+              "text": "者不發熱則物之象也如水氣之變自上來血氣之"
+            },
+            {
+              "text": "變自下來則態之象也故証必有定象矣雖証不異"
+            },
+            {
+              "text": "然態異則治不同故先生曰順逆同証而異治方所"
+            },
+            {
+              "text": "以知急逆之法既詳見于醫範不復具焉是故推類"
+            },
+            {
+              "text": "知物分其急逆而後治術不謬矣"
+            },
+            {
+              "text": "虛實"
+            },
+            {
+              "text": "虛実以精氣言之非謂元氣之旺衰也醫範曰虛者"
+            },
+            {
+              "text": "虧而不足之謂也実者盈而有餘之謂也急逆虛実"
+            },
+            {
+              "text": "謂之四態皆失常之謂而虛亦毒也実亦毒也有毒"
+            }
+          ],
+          "extras": []
+        }
+      ],
+      "issues": [],
+      "observations": "左面：正文「実」與篇題「實」有字形差。左四、五同形暫讀「象」，前後各見「物之象」「態之象」「定象」。"
+    },
+    {
+      "image": 8,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00004060/canvas/p8",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00004060%2FRB00004060_00008_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "8"
+        ]
+      },
+      "file": "08.jpg",
+      "sha256": "8d39b555009d97758ce0df08a1243b4f6776b4c8c3748eab95643f1f6af45218",
+      "bytes": 335723,
+      "width": 2000,
+      "height": 1333,
+      "native_width": 5616,
+      "native_height": 3744,
+      "content_role": "medical-judgment-treatise",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "而失常為此虛為此実所虛実者精也所俾虛実者"
+            },
+            {
+              "text": "毒也内經曰攻病以毒薬養精以穀肉果菜是分而"
+            },
+            {
+              "text": "常与變而言之毒薬者攻病之具也非保常之物也"
+            },
+            {
+              "text": "穀肉者養精之物也非制變之具也故欲以薬物補"
+            },
+            {
+              "text": "虛者妄矣欲以穀肉養虛者亦差矣若夫以虛属元"
+            },
+            {
+              "text": "氣者固後人之衍而已元氣者天之所賦非人力之"
+            },
+            {
+              "text": "所能撓回也先生甞譬之燈火火者元氣也油者精"
+            },
+            {
+              "text": "氣也燈炷者長短猶年壽有長短也風吹而撓蛾入"
+            },
+            {
+              "text": "而昧潘滓焦着粘凝此為疾病也故壽非醫所与也"
+            },
+            {
+              "text": "元氣不可補也精氣存在則元氣寄在精氣不自虛"
+            },
+            {
+              "text": "必毒之所致毒去則精氣復焉元氣旺焉素問曰邪"
+            },
+            {
+              "text": "之所凑其氣必虛故不出乎以此毒攻彼毒之外也"
+            }
+          ],
+          "extras": []
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "蓋虛実者病之態也不知之則不能分証雖証同乎"
+            },
+            {
+              "text": "虛実異則治不同故必説此虛実也所以知虛実之"
+            },
+            {
+              "text": "法既詳見醫範不具于此"
+            },
+            {
+              "text": "所在"
+            },
+            {
+              "text": "所在者病之所在卽病位也所在有三以表裏内外"
+            },
+            {
+              "text": "分之一身頭項背腰此為表也外體面目鼻口咽喉"
+            },
+            {
+              "text": "胸腹此為裏也心睛舌骨髓此為内也四肢属于裏"
+            },
+            {
+              "text": "手足反在□矣外也者對内之稱自内而言則表裏"
+            },
+            {
+              "text": "皆外也故所在唯在三而已説文曰内自外而入也"
+            },
+            {
+              "text": "韻會曰外内之對表也故自外而内陷者以内言之"
+            },
+            {
+              "text": "自内而外出者以外言之内外皆出入之辭也傷寒"
+            },
+            {
+              "text": "論不言臟腑唯言心与胃而已胃者精氣之所由生"
+            }
+          ],
+          "extras": []
+        }
+      ],
+      "issues": [
+        {
+          "side": "left",
+          "column": 8,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        },
+        {
+          "side": "left",
+          "column": 7,
+          "context": "心睛",
+          "candidates": [],
+          "note": "右四欄首「穀」形略省。右九「潘」與「滓」為據固定圖局部放大辨讀的暫定。左七「心睛」可能是另一形近字，左八「反在」下一字見水旁、右部類「莫」或「堇」，待核。"
+        },
+        {
+          "side": "left",
+          "column": 8,
+          "context": "反在",
+          "candidates": [],
+          "note": "右四欄首「穀」形略省。右九「潘」與「滓」為據固定圖局部放大辨讀的暫定。左七「心睛」可能是另一形近字，左八「反在」下一字見水旁、右部類「莫」或「堇」，待核。"
+        }
+      ],
+      "observations": "左面：右四欄首「穀」形略省。右九「潘」與「滓」為據固定圖局部放大辨讀的暫定。左七「心睛」可能是另一形近字，左八「反在」下一字見水旁、右部類「莫」或「堇」，待核。"
+    },
+    {
+      "image": 9,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00004060/canvas/p9",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00004060%2FRB00004060_00009_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "9"
+        ]
+      },
+      "file": "09.jpg",
+      "sha256": "21c5da8c2c7beff0cf2a4afe07df3b8df605fffca7c4ea327ce4a48b7de1cfbb",
+      "bytes": 339372,
+      "width": 2000,
+      "height": 1333,
+      "native_width": 5616,
+      "native_height": 3744,
+      "content_role": "medical-judgment-treatise",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "處也故有胃氣之言飲食之道路而在血外者乃亦"
+            },
+            {
+              "text": "属于裏所在唯以心為極位也所謂無表裏証者示"
+            },
+            {
+              "text": "病在内也所謂外証未解者謂外行不解也病之所"
+            },
+            {
+              "text": "在卽毒之所在也毒之劇也或發於所在之外如桂"
+            },
+            {
+              "text": "枝湯之不暢於表位而裏位上衝大陥胷湯之結於"
+            },
+            {
+              "text": "胸而心下痛瓜蒂散之病在胸中而心中滿可以知"
+            },
+            {
+              "text": "已頭痛者表也發熱亦表也然有自裏迫者有自内"
+            },
+            {
+              "text": "迫者宜詳其所在也不分所在則不可處方雖証同"
+            },
+            {
+              "text": "物同然所在異則治不同觀醫範而可見矣"
+            },
+            {
+              "text": "主客"
+            },
+            {
+              "text": "証之有主客卽物之主客也治其主者而客者従焉"
+            },
+            {
+              "text": "故治法宜分主客也主者先見而客者後出故吐而"
+            }
+          ],
+          "extras": []
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "渴者以吐為主滿而吐者以滿為主桂枝湯有頭痛"
+            },
+            {
+              "text": "有乾呃吳茱萸湯亦有頭痛有乾呃桂枝湯頭痛主"
+            },
+            {
+              "text": "而乾呃為客故頭痛有首吳茱萸湯乾呃主而頭痛"
+            },
+            {
+              "text": "為客故頭痛在末凡客者動而主者不動汗出下利"
+            },
+            {
+              "text": "雷鳴皆不水為主也水為主則或鞕滿或支結不汗"
+            },
+            {
+              "text": "出不下降為凝滯狀也泻心湯之於治衂亦然衂者"
+            },
+            {
+              "text": "氣逐血之証也動而不為變者故亦血為客也氣為"
+            },
+            {
+              "text": "主者則動而不變滯有其狀而無其形氣散則証自"
+            },
+            {
+              "text": "退是氣与水血之別也成形者亦未必悉以為主假"
+            },
+            {
+              "text": "令水腫亦有氣不循而水滯者有水滯而氣不暢者"
+            },
+            {
+              "text": "是故欲分主客者亦必以明義知物為要也"
+            },
+            {
+              "text": "劇易"
+            }
+          ],
+          "extras": []
+        }
+      ],
+      "issues": [
+        {
+          "side": "left",
+          "column": 5,
+          "context": "皆不水為主也",
+          "candidates": [],
+          "note": "右五「胷」局部見上匈下月，保留「陥」「胷」形；右七首「已」疑與前欄組「可以知已」。左五放大可見「皆不水為主也」，保留字面；左六「泻」見水旁右写形。藥方名及其引例，無配方或製用步驟。"
+        },
+        {
+          "side": "left",
+          "column": 6,
+          "context": "泻",
+          "candidates": [],
+          "note": "右五「胷」局部見上匈下月，保留「陥」「胷」形；右七首「已」疑與前欄組「可以知已」。左五放大可見「皆不水為主也」，保留字面；左六「泻」見水旁右写形。藥方名及其引例，無配方或製用步驟。"
+        }
+      ],
+      "observations": "左面：右五「胷」局部見上匈下月，保留「陥」「胷」形；右七首「已」疑與前欄組「可以知已」。左五放大可見「皆不水為主也」，保留字面；左六「泻」見水旁右写形。藥方名及其引例，無配方或製用步驟。"
+    },
+    {
+      "image": 10,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00004060/canvas/p10",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00004060%2FRB00004060_00010_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "10"
+        ]
+      },
+      "file": "10.jpg",
+      "sha256": "36093929e49a7405b18427a6277d5e08368fcd88282aa493a7504c88b9f7b4ba",
+      "bytes": 341988,
+      "width": 2000,
+      "height": 1333,
+      "native_width": 5616,
+      "native_height": 3744,
+      "content_role": "medical-judgment-treatise",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "証有劇易知義分物則劇易輙可預知焉証雖万變"
+            },
+            {
+              "text": "不出乎定義之外大柴胡湯証易則心下急欝々微"
+            },
+            {
+              "text": "煩或心下滿痛劇則心下痞鞕呃吐而下利芍藥湯"
+            },
+            {
+              "text": "証易則疼而煩劇則悸衄吳茱萸湯証易則呃而胸"
+            },
+            {
+              "text": "滿劇則乾呃吐涎沫頭痛又進一等則吐利手足厥"
+            },
+            {
+              "text": "冷煩躁欲死桂枝湯頭痛發熱或身疼痛則不上衝"
+            },
+            {
+              "text": "若氣不能外行則氣逆上行致上衝証此為劇也雖"
+            },
+            {
+              "text": "致上衝遂不為腹痛雖致衄遂不為下血物与態定"
+            },
+            {
+              "text": "也故知義分物則預知証之劇易轉變也凡自覺其"
+            },
+            {
+              "text": "苦者皆其易者也劇則不自覺焉猶痺劇而為不仁"
+            },
+            {
+              "text": "也故毒之劇也或發於所在之外物与態則同証而"
+            },
+            {
+              "text": "異治劇与易則異証而同治故先生曰須並同証而"
+            }
+          ],
+          "extras": []
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "異治方劇易異証而同治方不可不知也"
+            },
+            {
+              "text": "有無"
+            },
+            {
+              "text": "証之有無亦法之所由存也今舉其一二桂枝湯有"
+            },
+            {
+              "text": "惡寒無喘麻黃湯有喘無惡寒桂枝湯有發熱則無"
+            },
+            {
+              "text": "身疼痛有身疼痛則無發熱麻黃湯則發熱而有疼"
+            },
+            {
+              "text": "痛如發熱惡寒身疼痛者大青龍湯証是也葛根湯"
+            },
+            {
+              "text": "無發熱桂枝湯無几几此皆以其物異也發熱証有"
+            },
+            {
+              "text": "頭痛惡寒則桂枝湯有呃則小柴胡湯無他証則調"
+            },
+            {
+              "text": "胃承氣湯此以其所在異也汗出有發熱者表候也"
+            },
+            {
+              "text": "汗出無發熱者自內急迫也此須並之別也是故有"
+            },
+            {
+              "text": "無亦法之所由存不可不知焉"
+            },
+            {
+              "text": "原因"
+            }
+          ],
+          "extras": []
+        }
+      ],
+      "issues": [],
+      "observations": "左面：左面第2、12欄是低起小題，仍按原欄放置。第7欄「几几」兩字均似几而無內點。 左面：右面第2欄「欝」後原用重文號，記為「々」。第4欄首段「疼」候，末旁見病旁之形。"
+    },
+    {
+      "image": 11,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00004060/canvas/p11",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00004060%2FRB00004060_00011_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "11"
+        ]
+      },
+      "file": "11.jpg",
+      "sha256": "956b5a97432406d680f94a26dd006f785f55085d62c6367be462d832022a40ee",
+      "bytes": 346040,
+      "width": 2000,
+      "height": 1333,
+      "native_width": 5616,
+      "native_height": 3744,
+      "content_role": "medical-judgment-treatise",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "司馬相如封禪文爾陋游原註孟康曰原本也字典"
+            },
+            {
+              "text": "因由也鄒陽上梁王書夜光之璧以暗投人於道莫"
+            },
+            {
+              "text": "不按劍相盻者無因至前也故因也者病之所由來"
+            },
+            {
+              "text": "也原也者本也本者所病物也因雖不可睹而原自"
+            },
+            {
+              "text": "見於証因者想像而已取之臆以求想像欲莫繆盭"
+            },
+            {
+              "text": "而得乎非謂病無因也因果可得亦終無益於治術"
+            },
+            {
+              "text": "執法臨病以毒攻毒何為治彼因乎故因也者廢而"
+            },
+            {
+              "text": "不論"
+            },
+            {
+              "text": "脈候"
+            },
+            {
+              "text": "古者脈分陰陽而不論三部傷寒論之舉脈莫不皆"
+            },
+            {
+              "text": "然上部為陽下部為陰以切總身之脈也故扁鵲傳"
+            },
+            {
+              "text": "曰陽脈下遂陰脈上爭自叔和氏以降盛論寸關尺"
+            }
+          ],
+          "extras": []
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "而其所謂寸關尺亦既非古之寸關尺也寸關尺在"
+            },
+            {
+              "text": "三所上部為寸中部為關下部為尺也素靈所言亦"
+            },
+            {
+              "text": "非以手高骨脈分之者難經曰譬如人之有尺樹之"
+            },
+            {
+              "text": "有根荀悅申鑒曰臍下二寸謂"
+            },
+            {
+              "text": "之關々者所以關藏呼吸之氣以稟授四體也是可"
+            },
+            {
+              "text": "以知已然而別無明徵診候難復詳焉蓋脈亦物之"
+            },
+            {
+              "text": "應也陽脈診氣為主陰脈診血為主陽者昇陰者降"
+            },
+            {
+              "text": "昇者氣也降者血也氣無質故昇矣血有質故降矣"
+            },
+            {
+              "text": "猶火之昇水之降也此其所以配氣血也凡傷寒論"
+            },
+            {
+              "text": "中舉脈者以此示病義以此分疑違示病義者置之"
+            },
+            {
+              "text": "證首分疑違者置之証末証者先也脈者後也証具"
+            },
+            {
+              "text": "則不待脈而物可知焉若見一証者必徵之脈此亦"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "左頁第4欄「有根」下夾註右行",
+              "text": "滑伯仁曰譬如二字",
+              "column_anchor": 12,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁第4欄「有根」下夾註左行",
+              "text": "當在人之有尺下",
+              "column_anchor": 12,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "left",
+          "column": 4,
+          "context": "荀悅申鑒",
+          "candidates": [],
+          "note": "左頁第4欄雙行註後承主文「荀悅申鑒」。左頁第5欄「關」後有重文號。第10、11欄「疑違」末字候讀。"
+        },
+        {
+          "side": "left",
+          "column": null,
+          "context": "關",
+          "candidates": [],
+          "note": "左頁第4欄雙行註後承主文「荀悅申鑒」。左頁第5欄「關」後有重文號。第10、11欄「疑違」末字候讀。"
+        },
+        {
+          "side": "left",
+          "column": null,
+          "context": "疑違",
+          "candidates": [],
+          "note": "左頁第4欄雙行註後承主文「荀悅申鑒」。左頁第5欄「關」後有重文號。第10、11欄「疑違」末字候讀。"
+        }
+      ],
+      "observations": "左面：右頁第9欄為低起小題。右頁第3欄「盻」右上近八、下收鉤，候可比「眄」。第5欄末「繆盭」第二字下從皿。 左面：左頁第4欄雙行註後承主文「荀悅申鑒」。左頁第5欄「關」後有重文號。第10、11欄「疑違」末字候讀。"
+    },
+    {
+      "image": 12,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00004060/canvas/p12",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00004060%2FRB00004060_00012_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "12"
+        ]
+      },
+      "file": "12.jpg",
+      "sha256": "7f469807782c45b463ef5048f9cedf994346f0669979d3ce03651251ef5cb03e",
+      "bytes": 328869,
+      "width": 2000,
+      "height": 1333,
+      "native_width": 5616,
+      "native_height": 3744,
+      "content_role": "medical-judgment-treatise",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "所以論証也無脈之可徵無狀之可候則先氣後血"
+            },
+            {
+              "text": "水次之古之法也"
+            },
+            {
+              "text": "病名"
+            },
+            {
+              "text": "聖人之道謂之名教立而名之以教人也禮云義云"
+            },
+            {
+              "text": "皆非名乎夫既有名名宜有義礼不可以名棄義不"
+            },
+            {
+              "text": "可以名仁故莊子曰名者實之賓也疾病獨可無名"
+            },
+            {
+              "text": "乎亦咸有所共為名已傷寒不可以為中風太陽不"
+            },
+            {
+              "text": "可以為陽明古者以病狀為名或以病義為名後世"
+            },
+            {
+              "text": "多取諸病因遂致眩名而失實故以因名之者悉削"
+            },
+            {
+              "text": "而不取焉蓋証在彼焉者也法在我焉者也法猶然"
+            },
+            {
+              "text": "況名乎我察之狀我設之名治術豈憑病名哉教証"
+            },
+            {
+              "text": "授義不無病名也故我執此法以臨彼病至其斷然"
+            }
+          ],
+          "extras": []
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "下治則既離法矣方是之時其何拘々乎病名哉此"
+            },
+            {
+              "text": "東洞先生之所以削名也乃亦所以立極也"
+            },
+            {
+              "text": "死生"
+            },
+            {
+              "text": "死生有命聖人之言不可誣焉命天之令也自天作"
+            },
+            {
+              "text": "之故謂之命疾病者醫之所治也醫之所治則人事"
+            },
+            {
+              "text": "也人事与天命判然不可混焉醫而欲司死生以天"
+            },
+            {
+              "text": "命為私有也不亦徵乎醫斷既言之頗較著而世人"
+            },
+            {
+              "text": "猶或惑焉以不知治疾之要也夫醫之於死生猶將"
+            },
+            {
+              "text": "之於勝敗也死生勝敗共在天非人之所司也唯盡"
+            },
+            {
+              "text": "其術而已唯精其謀而已源廷尉逆櫓之辭韓淮陰"
+            },
+            {
+              "text": "背水之陣能堪須暫之苦幸則得永久之榮古所謂"
+            },
+            {
+              "text": "頭眩而疾療者邪故將之良者忘於勝敗醫之良者"
+            }
+          ],
+          "extras": []
+        }
+      ],
+      "issues": [],
+      "observations": "左面：兩面第3欄是低起小題。右面第5欄「礼」從示旁和末折，與右面第4欄「禮」字異體並見，右面第6欄次字形近「仁」。 左面：左面首欄「拘」後原有重文號。左面第7欄「徵」候。第11欄「堪」後候「須／項」，下一字見車斬形上及日下，照錄「暫」。"
+    },
+    {
+      "image": 13,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00004060/canvas/p13",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00004060%2FRB00004060_00013_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "13"
+        ]
+      },
+      "file": "13.jpg",
+      "sha256": "4960166c2e471b540b58c9855c8cb1de55a5d26770e658d2dda013fefc8bbfbe",
+      "bytes": 324088,
+      "width": 2000,
+      "height": 1333,
+      "native_width": 5616,
+      "native_height": 3744,
+      "content_role": "medical-judgment-treatise",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "忘於死生射之於法成之於習功用既就心不為之"
+            },
+            {
+              "text": "亂坦然安於命謂之射道之真也所以盡人事而待"
+            },
+            {
+              "text": "天命也蓋察聲氣色脈其死生周官所立固無不可"
+            },
+            {
+              "text": "然亦非疾醫之要務也醫斷曰唯重其仁故唯脈其"
+            },
+            {
+              "text": "生是故學者不以知死生為務特以安於命為要也"
+            },
+            {
+              "text": "耳劇毒不除因疾病致死者非命之命歟不遇良醫"
+            },
+            {
+              "text": "而斃於粗工之手者亦非命之命歟孟子曰盡其道"
+            },
+            {
+              "text": "而死者正命也蓋先生嘗作醫非司命官論其論死"
+            },
+            {
+              "text": "生盡矣"
+            },
+            {
+              "text": "邪"
+            },
+            {
+              "text": "邪者正之對也不正之氣謂之邪其狀逆也逆者病"
+            },
+            {
+              "text": "之態且有逆激之義邪者指所病而言之外襲之狀"
+            }
+          ],
+          "extras": []
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "也若以此為外氣入體中者非也我所病則一而已"
+            },
+            {
+              "text": "但以病義不同故有種々之別也"
+            },
+            {
+              "text": "寒"
+            },
+            {
+              "text": "寒者病狀也非病形也冷者形也撫之覺其冷寒者"
+            },
+            {
+              "text": "病人唯覺其寒耳惡寒厥寒手足寒類皆然凡冬曰"
+            },
+            {
+              "text": "寒不曰冷水曰冷不曰寒其別可以知矣故寒為閉"
+            },
+            {
+              "text": "塞緊縮之義傷寒之寒亦然其狀逆也如曰寒去則"
+            },
+            {
+              "text": "言所閉者解也如曰胸有寒則言水見閉於胸也若"
+            },
+            {
+              "text": "以寒為氣入體中者則亦固非矣"
+            },
+            {
+              "text": "臟腑"
+            },
+            {
+              "text": "臟之為言藏也腑之為言府也藏蓄血液者謂之臟"
+            },
+            {
+              "text": "受盛飲食者謂之腑字彙臟者藏也周礼天官疾醫"
+            }
+          ],
+          "extras": []
+        }
+      ],
+      "issues": [],
+      "observations": "左面：右頁第10欄、左頁第3、10欄是低起小題。右頁第5欄「以」前左旁較窄，候「特／持」。左頁第2欄「種」後原有重文號。"
+    },
+    {
+      "image": 14,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00004060/canvas/p14",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00004060%2FRB00004060_00014_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "14"
+        ]
+      },
+      "file": "14.jpg",
+      "sha256": "0869c6b5ade384de97de30442e3dfb25550b4e431d6d889552a62cedef4133de",
+      "bytes": 342326,
+      "width": 2000,
+      "height": 1333,
+      "native_width": 5616,
+      "native_height": 3744,
+      "content_role": "medical-judgment-treatise",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "疏以其受盛故謂之為府又春官天府疏在人身中"
+            },
+            {
+              "text": "飲食所聚謂之六府今解體家之所徵亦是而已腑"
+            },
+            {
+              "text": "其中空也臟其中實也故臟育精物腑傳化物此臟"
+            },
+            {
+              "text": "腑之別也臟名既見于六經諸書而未有腑稱周礼"
+            },
+            {
+              "text": "有九藏之言莊子有六藏之言扁鵲傳有五藏之言"
+            },
+            {
+              "text": "所謂九藏對九竅而言之謂藏在內已固未分臟腑"
+            },
+            {
+              "text": "為兩也呂氏春秋列子亦言臟而不言腑淮南子及"
+            },
+            {
+              "text": "文子以肝腎膽脾肺配風雨雲雷氣去心加膽亦不"
+            },
+            {
+              "text": "言腑扁鵲傳則曰腸胃曰三焦膀胱然不見六腑之"
+            },
+            {
+              "text": "言倉公傳亦然抱朴子亦曰破積聚於府藏前漢藝"
+            },
+            {
+              "text": "文志曰五藏六府白虎通曰五藏六府難經曰五藏"
+            },
+            {
+              "text": "五府曰六藏六府自此之後益密益紊要之皆無裨"
+            }
+          ],
+          "extras": []
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "於治病也傷寒不説臟腑獨言心与胃者可因以知"
+            },
+            {
+              "text": "其証也病之在心也必係神識矣病之在胃也必有"
+            },
+            {
+              "text": "穀氣之變矣以証分之此乃実言非如它空論也是"
+            },
+            {
+              "text": "故疾醫之所道特貴治疾之用"
+            },
+            {
+              "text": "傷寒論"
+            },
+            {
+              "text": "相傳傷寒論成於東漢仲景所手著也此以序文為"
+            },
+            {
+              "text": "據已然其序文者亦未可知真贋虚実也况仲景事"
+            },
+            {
+              "text": "跡史傳無所載若身果為長沙太守其所著者亦有"
+            },
+            {
+              "text": "益於世如斯則史悪舍之乎全書既涵於叔和之撰"
+            },
+            {
+              "text": "次而今之所傳則亦非和之本色狗尾續貂魚目混"
+            },
+            {
+              "text": "玉然其真璨然終不為之掩此亦所以為古先純粹"
+            },
+            {
+              "text": "也史遷之所託既有六經之目而与是書所設三陰"
+            }
+          ],
+          "extras": []
+        }
+      ],
+      "issues": [],
+      "observations": "左面：左頁第5欄是低起小題。右頁第4欄「諸」後和左頁第9欄「全」後、第12欄「是」後同形，原像為覆頂及框、底長橫，依同幅候讀「書」。左頁第9欄「既」後字左從水、右有方框，候「涵／溷」。左頁第11欄「璨」左王，右下呈米形。"
+    },
+    {
+      "image": 15,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00004060/canvas/p15",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00004060%2FRB00004060_00015_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "15"
+        ]
+      },
+      "file": "15.jpg",
+      "sha256": "f0846b6be65b36929561c709c1aa3030989ed52018847f38c3226967083eeac0",
+      "bytes": 339184,
+      "width": 2000,
+      "height": 1333,
+      "native_width": 5616,
+      "native_height": 3744,
+      "content_role": "medical-judgment-treatise",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "三陽自別矣所謂三陰三陽固非經名也扁倉傳好"
+            },
+            {
+              "text": "言藏府而是書不言之其立論之意大有徑庭也太"
+            },
+            {
+              "text": "陽少陽太陰少陰之言始見于子華子易曰四象而"
+            },
+            {
+              "text": "不分太少陰陽三陰三陽者他書無所見是必醫家"
+            },
+            {
+              "text": "之所立設以辨病體者也蓋醫書不遭秦火之厄則"
+            },
+            {
+              "text": "未必無古籍傳于世者焉藝文志載方書不數而無"
+            },
+            {
+              "text": "傷寒論有其書而異其名亦未可知焉要之持論簡"
+            },
+            {
+              "text": "明决非漢末之書也蓋上古之遺湮潛不著至仲景"
+            },
+            {
+              "text": "始施于世者邪其曰金匱曰玉函舊与本書一物而"
+            },
+            {
+              "text": "非別有其書皆傷寒論之美稱也其所以名傷寒論"
+            },
+            {
+              "text": "者以主論傷寒也論者倫也輪也倫次輪輳舊非一"
+            },
+            {
+              "text": "事所以有中風三陰三陽之分也猶有父子昆弟夫"
+            }
+          ],
+          "extras": []
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "婦之別以稱人倫也"
+            },
+            {
+              "text": "傷寒"
+            },
+            {
+              "text": "傷寒者取義於病状以命之名也非為寒所傷之謂"
+            },
+            {
+              "text": "也故曰名為傷寒未始曰傷於寒而所致者也傷也"
+            },
+            {
+              "text": "者戕害也寒也者閉塞之義也凡寒皆外襲之状故"
+            },
+            {
+              "text": "假外氣之名以名病矣傷寒之病帶陰陽状水血共"
+            },
+            {
+              "text": "被閉塞熱結雍發必惡寒體痛不痛則身重來于裏"
+            },
+            {
+              "text": "則逆滿結實必致緊縮状其病篤劇異于他病急在"
+            },
+            {
+              "text": "表急在裏又急在内變態百出槪宜不一非詹詹之"
+            },
+            {
+              "text": "所能尽也其義明具于本論其說詳見于先生著書"
+            },
+            {
+              "text": "中風"
+            },
+            {
+              "text": "外襲之状兩途其一傷寒也其一中風也中風亦取"
+            }
+          ],
+          "extras": []
+        }
+      ],
+      "issues": [],
+      "observations": "左面：右第2、4、5、7、8、9欄中的「書」有收筆相近的手寫形；按各欄語境暫錄為書。右第6欄「數」、第8欄「湮」、第11欄第二個「輪」候讀。左第7欄「雍」候壅，第8欄「篤」候。〈傷寒〉、〈中風〉均另欄低一至二字書寫。"
+    },
+    {
+      "image": 16,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00004060/canvas/p16",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00004060%2FRB00004060_00016_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "16"
+        ]
+      },
+      "file": "16.jpg",
+      "sha256": "fe585f491ac2c1a6e52c36fcdf2467952858ce47e8d5568e2148188dbcde53dc",
+      "bytes": 347415,
+      "width": 2000,
+      "height": 1333,
+      "native_width": 5616,
+      "native_height": 3744,
+      "content_role": "medical-judgment-treatise",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "義於病状以命此名已亦非為風所中之謂也故曰"
+            },
+            {
+              "text": "名為中風未始曰中於風而所致者也中也者當也"
+            },
+            {
+              "text": "風也者發動之義也傷寒者水血共閉中風者血氣"
+            },
+            {
+              "text": "動搖耳故不熱結發熱汗出不汗出則煩躁來于裏"
+            },
+            {
+              "text": "則下利呃逆必致驟擾之状其病終不離太陽状不"
+            },
+            {
+              "text": "至陰不成實故独太陽篇論之而必冒太陽字所以"
+            },
+            {
+              "text": "与傷寒異也傷而閉為中而動為寒与風搖塞自殊"
+            },
+            {
+              "text": "趣也譬之草木之葉搖落於秋風凋殘於冬寒風則"
+            },
+            {
+              "text": "觸之寒則犯之凄烈自異向也是故在風則曰中在"
+            },
+            {
+              "text": "寒則曰傷其名義不亦較然昭著乎"
+            },
+            {
+              "text": "陰陽"
+            },
+            {
+              "text": "陰陽者莫所不混成者也天地之間何物不有陰陽"
+            }
+          ],
+          "extras": []
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "況人者小天地其疾病之變亦豈可不由陰陽乎哉"
+            },
+            {
+              "text": "非陰則陽非陽則陰有太甚者有微少者有暴劇者"
+            },
+            {
+              "text": "於是六義分矣是故三陰三陽者襲其病状設其病"
+            },
+            {
+              "text": "名者也以此示病之大體而論傷寒已决非謂經絡"
+            },
+            {
+              "text": "部位也故稱某病而未嘗稱某經為風寒者自彼來"
+            },
+            {
+              "text": "之状也陰陽者自我出之状也氣盛而進達之謂陽"
+            },
+            {
+              "text": "氣衰而不暢之謂陰進者動而窒不暢者靜而滯進"
+            },
+            {
+              "text": "者升不暢者降熱而發寒而退為實状為虚状皆陰"
+            },
+            {
+              "text": "陽之定理也陽病多水氣之變陰病多血氣之變蓋"
+            },
+            {
+              "text": "陰陽之名莫所不之焉如男為陽女為陰手為陽足"
+            },
+            {
+              "text": "為陰可見矣故在脈則上為陽下為陰在病位則表"
+            },
+            {
+              "text": "陽也裡陰也在氣血水則氣無形故為陽也水血有"
+            }
+          ],
+          "extras": []
+        }
+      ],
+      "issues": [
+        {
+          "side": "left",
+          "column": null,
+          "context": "為",
+          "candidates": [],
+          "note": "右第5欄「呃」右下橫入，候「吃」；「驟擾」形疑。第7欄「傷而閉」以下兩個「為」依字面保留；第8欄首半「草木」候「枯木」。左第3欄「襲」候、左第10欄「不之」暫照書面。〈陰陽〉另欄低寫。"
+        },
+        {
+          "side": "left",
+          "column": 3,
+          "context": "襲",
+          "candidates": [],
+          "note": "右第5欄「呃」右下橫入，候「吃」；「驟擾」形疑。第7欄「傷而閉」以下兩個「為」依字面保留；第8欄首半「草木」候「枯木」。左第3欄「襲」候、左第10欄「不之」暫照書面。〈陰陽〉另欄低寫。"
+        },
+        {
+          "side": "left",
+          "column": 10,
+          "context": "不之",
+          "candidates": [],
+          "note": "右第5欄「呃」右下橫入，候「吃」；「驟擾」形疑。第7欄「傷而閉」以下兩個「為」依字面保留；第8欄首半「草木」候「枯木」。左第3欄「襲」候、左第10欄「不之」暫照書面。〈陰陽〉另欄低寫。"
+        }
+      ],
+      "observations": "左面：右第5欄「呃」右下橫入，候「吃」；「驟擾」形疑。第7欄「傷而閉」以下兩個「為」依字面保留；第8欄首半「草木」候「枯木」。左第3欄「襲」候、左第10欄「不之」暫照書面。〈陰陽〉另欄低寫。"
+    },
+    {
+      "image": 17,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00004060/canvas/p17",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00004060%2FRB00004060_00017_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "17"
+        ]
+      },
+      "file": "17.jpg",
+      "sha256": "5cfea820ef6f440a972e2db12a0717eaac23be572fa09ba181deba94454fbd7c",
+      "bytes": 327450,
+      "width": 2000,
+      "height": 1333,
+      "native_width": 5616,
+      "native_height": 3744,
+      "content_role": "medical-judgment-treatise",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "有形故為陰也氣為奇數水血為偶數在水血則水"
+            },
+            {
+              "text": "陽也血陰也水之沾物乾則無色血之染物乾亦存"
+            },
+            {
+              "text": "色是其有形質也故血者從靜水者從動此乃陰陽"
+            },
+            {
+              "text": "病所以有水血之異也以氣血言之則氣為陽血為"
+            },
+            {
+              "text": "陰水乃從而之焉故以氣語陰陽者此陰陽之源也"
+            },
+            {
+              "text": "太陽病"
+            },
+            {
+              "text": "太者太甚也陽氣盛于表位者謂之太陽脈浮頭項"
+            },
+            {
+              "text": "強痛此其候也氣盛而血窘窒故致強痛焉發出則"
+            },
+            {
+              "text": "項不強不惡寒發熱汗出也經曰則或迨内矣蓋表"
+            },
+            {
+              "text": "位者氣之末也末者氣帶之焉今氣盛于其末者此"
+            },
+            {
+              "text": "陽氣太甚状因名曰太陽々曰太陽曰少陽陽之義"
+            },
+            {
+              "text": "存焉故太陽与少陽自為脉伏大體"
+            }
+          ],
+          "extras": []
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "少陽病"
+            },
+            {
+              "text": "少者微少也陽氣盛于裡位者謂之少陽口苦咽乾"
+            },
+            {
+              "text": "目眩此其候也曰口曰咽曰目皆裡位也曰苦曰乾"
+            },
+            {
+              "text": "曰眩皆熱氣上進之所致也氣稍盛于裡而不能暢"
+            },
+            {
+              "text": "達于表者此陽氣微少状因名曰少陽"
+            },
+            {
+              "text": "陽明病"
+            },
+            {
+              "text": "明者離明之明示陽實也取照臨四方之義矣熱氣"
+            },
+            {
+              "text": "充實表裏内外無所不在者謂之陽明在外則見潮"
+            },
+            {
+              "text": "熱在内則致譫語此其候也大便鞕或燥汗不出則"
+            },
+            {
+              "text": "發黄色其病起於内急迫發出水血為之鬱結此陽"
+            },
+            {
+              "text": "氣明實状因名曰陽明"
+            },
+            {
+              "text": "少陰病"
+            }
+          ],
+          "extras": []
+        }
+      ],
+      "issues": [],
+      "observations": "左面：右第2欄「沾」、第8欄「窘窒」、第10欄「帶」、第12欄「脉伏」僅候讀；第11欄原有一重文符，暫以「々」表示。左第9欄「鞕」右部清楚，保留原形。〈太陽病〉、〈少陽病〉、〈陽明病〉、〈少陰病〉均另欄低寫。"
+    },
+    {
+      "image": 18,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00004060/canvas/p18",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00004060%2FRB00004060_00018_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "18"
+        ]
+      },
+      "file": "18.jpg",
+      "sha256": "fe9539d549c74fe8d42401dd569b2342e29f64c88ca017c1f97994c5aae52fee",
+      "bytes": 317117,
+      "width": 2000,
+      "height": 1333,
+      "native_width": 5616,
+      "native_height": 3744,
+      "content_role": "medical-judgment-treatise",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "少与少陽之少同表位氣不暢者謂之少陰脈微細"
+            },
+            {
+              "text": "但欲寐始得之反發熱或不發熱而無裡証此其候"
+            },
+            {
+              "text": "也氣不循暢故背惡寒手足寒來于裡則作下利矣"
+            },
+            {
+              "text": "其血滯者惡寒身體疼痛水滯者四肢沉重疼痛以"
+            },
+            {
+              "text": "陰氣不甚故時有變作陽状者蓋表位者氣之末素"
+            },
+            {
+              "text": "不能盛滿今氣不暢于其末者此陰氣微少状因名"
+            },
+            {
+              "text": "曰少陰"
+            },
+            {
+              "text": "太陰病"
+            },
+            {
+              "text": "太与太陽之太同裡位氣不暢者謂之太陰腹滿而"
+            },
+            {
+              "text": "吐食不下自利益甚時腹自痛此其候也血氣不循"
+            },
+            {
+              "text": "水滯而作腹滿水降而作自利血滯而作腹痛蓋腹"
+            },
+            {
+              "text": "内者氣之本也本者氣常旺焉今氣不暢于其本此"
+            }
+          ],
+          "extras": []
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "陰氣太甚状因名曰太陰"
+            },
+            {
+              "text": "厥陰病"
+            },
+            {
+              "text": "厥者頓也發石也謂其病暴迫也血氣暴迫上攻内"
+            },
+            {
+              "text": "位者謂之厥脉消渴氣上撞心々中疼熱飢而不能"
+            },
+            {
+              "text": "食此其候也陽明与厥陰均是暴急者也發起上行"
+            },
+            {
+              "text": "直有内位外氣不循四肢厥逆此陰氣暴劇状因名"
+            },
+            {
+              "text": "曰厥陰陽明者陽氣明實故曰陽明不曰明陽厥陰"
+            },
+            {
+              "text": "者厥而有陰状故曰厥陰不曰陰厥"
+            },
+            {
+              "text": "過經"
+            },
+            {
+              "text": "過者經過之過也字典古禾切音戈經也書禹貢東"
+            },
+            {
+              "text": "過洛汭北過洚水是也正韻經過之過為平聲也經"
+            },
+            {
+              "text": "者經絡之經々脈血道也其病過經脈而迨内也故"
+            }
+          ],
+          "extras": []
+        }
+      ],
+      "issues": [],
+      "observations": "左面：左第3欄「頓」「發石」、第4欄「厥脉」候讀；第10欄「音戈」照形，第11欄「洚」候「降」。左第4、12欄各有一重文符，暫記「々」。〈太陰病〉、〈厥陰病〉、〈過經〉另欄低寫。"
+    },
+    {
+      "image": 19,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00004060/canvas/p19",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00004060%2FRB00004060_00019_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "19"
+        ]
+      },
+      "file": "19.jpg",
+      "sha256": "2ad0f98f06eccd841cd77354a98dee27f4152b9aa91433cc2fade1b55882d8f0",
+      "bytes": 301508,
+      "width": 2000,
+      "height": 1333,
+      "native_width": 5616,
+      "native_height": 3744,
+      "content_role": "medical-judgment-treatise",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "帶表裡証而及于内者謂之過經所以分病状也以"
+            },
+            {
+              "text": "經為經歷之經則似穩當也然而至傷寒十三日不"
+            },
+            {
+              "text": "解過經譫語之章乃窒礙矣如再經說固經絡家之"
+            },
+            {
+              "text": "妄焉耳"
+            },
+            {
+              "text": "轉屬"
+            },
+            {
+              "text": "轉者動也旋也其病自彼所在轉旋而屬附此所在"
+            },
+            {
+              "text": "者謂之轉屬過經者有表裡証而及内焉轉屬者至"
+            },
+            {
+              "text": "于内而離表裡焉此其別也陽病屬陰則不言轉陰"
+            },
+            {
+              "text": "与陽別物而非旋轉也太陽屬少陽則曰轉入自表"
+            },
+            {
+              "text": "直入裡也独在陽明則曰轉屬表証轉而屬内也陰"
+            },
+            {
+              "text": "病一途故無有陰屬陰者"
+            },
+            {
+              "text": "合病"
+            }
+          ],
+          "extras": []
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "合者合混也二病若三病其証合混者謂之合病轉"
+            },
+            {
+              "text": "屬者彼病轉屬此病証有先後合病者同時齊發其"
+            },
+            {
+              "text": "証交見此其別也陰病一途故不言合病焉如併病"
+            },
+            {
+              "text": "則經絡家之攙入而已故全書併病章無一處方者"
+            },
+            {
+              "text": "非本論之例也"
+            },
+            {
+              "text": "壞病"
+            },
+            {
+              "text": "壞者頽壞也汗吐下誤治病態頽敗者謂之壞病煩"
+            },
+            {
+              "text": "逆失義異變錯出也凡曰過經曰轉屬曰合病曰壞"
+            },
+            {
+              "text": "病皆設斯名以判病状已此亦所以詳區別証義也"
+            }
+          ],
+          "extras": []
+        }
+      ],
+      "issues": [],
+      "observations": "左面：右第3欄「窒礙」候讀，第4欄「妄」形近「𡚮」；左第4欄書字用同前手寫形，第8欄「義」候讀。〈轉屬〉、〈合病〉、〈壞病〉均另欄低寫。左頁末欄後留白，未見另款。"
+    },
+    {
+      "image": 20,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00004060/canvas/p20",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00004060%2FRB00004060_00020_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "20"
+        ]
+      },
+      "file": "20.jpg",
+      "sha256": "2c61fdd2a761493d73241f793bdce50d2a1792065ebef9d688640ab78cde64e3",
+      "bytes": 231464,
+      "width": 2000,
+      "height": 1333,
+      "native_width": 5616,
+      "native_height": 3744,
+      "content_role": "housing-or-binding",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [],
+          "extras": []
+        },
+        {
+          "side": "left",
+          "columns": [],
+          "extras": []
+        }
+      ],
+      "issues": [],
+      "observations": "右面：正文末頁紙背透墨，無另寫正文。 左面：後襯。未見另寫正文。"
+    },
+    {
+      "image": 21,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00004060/canvas/p21",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00004060%2FRB00004060_00021_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "21"
+        ]
+      },
+      "file": "21.jpg",
+      "sha256": "b594d0cd7d390670e21474e175e0bdbf6b3f940287310f188c45a86275bfde33",
+      "bytes": 194445,
+      "width": 2000,
+      "height": 1333,
+      "native_width": 5616,
+      "native_height": 3744,
+      "content_role": "housing-or-binding",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": []
+        }
+      ],
+      "issues": [],
+      "observations": "單幅：原黑色後封。未見題記或署款。"
+    }
+  ]
+}
